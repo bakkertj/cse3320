@@ -1,4 +1,4 @@
-# cse3320
+# File System Assignment
 Source code examples for the file system project of CSE 3320.  You may use any of this code in your assignment
 
 fs.c contains example code showing the data structures used to simulate the disk blocks and inodes as well as their use
