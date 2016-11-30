@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 //
-// Purpose: Demonstrate some implementing FizzBuzz
+// Purpose: Demonstrate implementing FizzBuzz
 
 #include <stdio.h>
 
