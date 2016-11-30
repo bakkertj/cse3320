@@ -3,7 +3,7 @@
 The following cource code files implement several common interview questions
 
 - [fizzbuzz.c][01]: Implements FizzBuzz in C
-- [fizzbuzz.c][02]: Implements FizzBuzz in python
+- [fizzbuzz.py][02]: Implements FizzBuzz in python
 - [string.c][02]: Implements some common string manipulations questions in C
 
 
